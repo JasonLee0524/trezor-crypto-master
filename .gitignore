@@ -1,0 +1,13 @@
+*.o
+*.exe
+*~
+test-openssl
+tests
+build-*/
+build/
+dist/
+MANIFEST
+TrezorCrypto.c
+*.os
+*.so
+*.pyc
